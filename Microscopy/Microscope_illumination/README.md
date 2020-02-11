@@ -8,9 +8,7 @@ We developed an open-source and powerful laser engine at a fraction of the cost 
 
 ![](laserengine.jpg)
 
-D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, "*A cost-efficient open source laser engine for microscopy*", bioRxiv 796482; doi: https://doi.org/10.1101/796482
-
-
+D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, "Cost-efficient open source laser engine for microscopy," Biomed. Opt. Express **11**, 609-623 (2020); [DOI](https://doi.org/10.1364/BOE.380815)
 
 #### Speckle-reduction
 
