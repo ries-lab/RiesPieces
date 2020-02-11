@@ -1,4 +1,4 @@
-# ![logo](logo.png)  Ries pieces
+# Ries pieces
 
 ## Recipes for open microscopy
 

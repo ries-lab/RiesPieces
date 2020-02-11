@@ -18,6 +18,8 @@ For instance, we use this system when placing in or out a 3D lens in our beam pa
 
 The rail carriage is fixed from the bottom. The servo is fixed by the pressure between the side walls and between the carriage and the base. Screws can be inserted (see picture above) to increase this pressure.
 
-
-
 > Warning: careful when removing the rail from the carriage, as the balls might fall.
+
+
+
+This system was designed by Ulf Matti, Ries lab, EMBL.

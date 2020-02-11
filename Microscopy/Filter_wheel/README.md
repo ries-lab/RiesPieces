@@ -34,3 +34,5 @@ The module is composed of the following elements:
 Note if scaling is necessary: the wheel diameter is 100 mm and the height of the adapter (largest dimension) is 30 mm.
 
 The servo is controlled using a typical servo signal (1-2ms) and powered by 5 V.
+
+The printed filter wheel was designed by Ulf Matti, Ries lab, EMBL.
