@@ -17,9 +17,11 @@ In summary, with EMU:
 - The UIs are easily be transferred between similar set-ups
 - New UIs can be designed with drag and drop softwares and few extra lines of code
 
-EMU is part of Micro-Manager 2-gamma.
+EMU is now part of Micro-Manager 2-gamma.
 
+##### Example with the SimpleUI plugin:
 
+![emu](emu.png)
 
 ##### Useful links:
 

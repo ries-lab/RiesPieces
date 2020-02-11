@@ -4,7 +4,7 @@
 
 ### Laser diode electronics
 
-For more details, visit the [laser engine repository](https://github.com/ries-lab/LaserEngine).
+We built a custom electronics system to control multiple affordable laser diodes. For more details, visit the [laser engine repository](https://github.com/ries-lab/LaserEngine).
 
 
 

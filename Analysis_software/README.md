@@ -2,19 +2,21 @@
 
 The Ries group is actively developing algorithms and integrating the state of the art analysis pipelines for localization microscopy into its Matlab platform.
 
-
-
 ### Superresolution Microscopy Analysis Platform (SMAP)
 
 [SMAP](https://github.com/jries/SMAP) is a large Matlab software allowing fitting, rendering, post-processing and visualization of localization microscopy data. Also available as stand-alone version. It includes (non-exhaustive list):
 
-- Calibration of experimental PSFs
-- CPU and GPU fitting of experimental PSF
-- Filtering and rendering, localization color-coding, 3D viewers
+- Calibration of experimental PSFs (CPU and GPU-accelerated)
+- Filtering, rendering, color-coding of localizations
 - 3D drift correction, statistical analysis, FRC
+- 3D viewers and image export
 - Batch fitting of multiple experiments
 - Live analysis of ongoing experiments
 - Site explorer with annotations
+
+![smap-online](smap-online.png)
+
+------
 
 
 
