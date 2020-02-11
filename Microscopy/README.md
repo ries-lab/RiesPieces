@@ -20,7 +20,7 @@ In order to perform automated imaging, we place optical elements that are freque
 
 ##### Gallery:
 
-![flip_mount_small](Flip_mount\flip_mount_small.JPG)![3D_printed_fw_small](Filter_wheel\3D_printed_fw_small.JPG)![rail_servo_small](Linear_stage\rail_servo_small.JPG)
+![flip_mount_small](Flip_mount/flip_mount_small.JPG)![3D_printed_fw_small](Filter_wheel/3D_printed_fw_small.JPG)![rail_servo_small](Linear_stage/rail_servo_small.JPG)
 
 Note that these elements are controlled on our microscope using an FPGA (see the electronics section), the project is [hosted on Github](https://github.com/jdeschamps/MicroFPGA).
 
