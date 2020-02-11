@@ -62,7 +62,7 @@ The LC-301DQD QPD amplifier has three output signals: X, Y and Sum (refer to the
 
 When the system is well aligned, focusing through z with the objective stage should yield the following graph (here as a cartoon):
 
-![QPD](X:\users\Joran\Illustrator\QPD.png)
+![QPD](QPD.png)
 
 The QPD amplifier should be connected to the QPD. The X signal should be connected to the external analog input of the z-stage controller. Finally, you should also monitor the X and Sum signals.
 
