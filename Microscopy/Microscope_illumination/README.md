@@ -15,7 +15,7 @@ D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, "Cost-efficient op
 As part of the laser engine project, we described two different speckle-reduction approaches:
 
 - [Using a commercial oscillating diffuser](https://github.com/ries-lab/LaserEngine/tree/master/Laser_Engine/LSR). 
-  J Deschamps, A Rowald, and J Ries, "Efficient homogeneous illumination and optical sectioning for quantitative single-molecule localization microscopy," Opt. Express **24**, 28080-28090 (2016); doi: [https://doi.org/10.1364/OE.24.028080](https://doi.org/10.1364/OE.24.028080)
+  J Deschamps, A Rowald, and J Ries, "Efficient homogeneous illumination and optical sectioning for quantitative single-molecule localization microscopy," Opt. Express **24**, 28080-28090 (2016); [DOI](https://doi.org/10.1364/OE.24.028080)
 
 - [By agitating the fiber in an agitation module](https://github.com/ries-lab/LaserEngine/tree/master/Agitation_Module).
 
