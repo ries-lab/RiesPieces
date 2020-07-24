@@ -2,7 +2,7 @@
 
 The analog voltage converter board consist of 8 channels dividing a 5 V or 10 V analog signal to a 1 V signal. The input voltage can be selected with a jumper. Additionally, another jumper can limit the output current to 1.6V. This board is used in conjunction with a FPGA (Au, Alchitry) in the [MicroFPGA](https://github.com/jdeschamps/MicroFPGA) project.
 
-![analog converter board](D:\git\RiesPieces\Electronics\Analog_divider\analog_conv.JPG)
+![analog converter board](analog_conv.JPG)
 
 The project contains the following items:
 
