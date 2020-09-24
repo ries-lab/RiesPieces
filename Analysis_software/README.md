@@ -14,6 +14,8 @@ The Ries group is actively developing algorithms and integrating the state of th
 - Live analysis of ongoing experiments
 - Site explorer with annotations
 
+Ries, Jonas. “SMAP: A Modular Super-Resolution Microscopy Analysis Platform for SMLM Data.” *Nat Methods*, **17** (2020). [DOI](https://doi.org/10.1038/s41592-020-0938-1)
+
 ![smap-online](smap-online.png)
 
 ------
