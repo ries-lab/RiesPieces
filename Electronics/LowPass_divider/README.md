@@ -2,7 +2,7 @@
 
 The analog voltage converter board consist of 4 channels performing a voltage conversion from 3.3, 4 or 5 V to 3.3, 4 or 5 V. The conversion direction between input and output voltage can be selected on the board for each channel. Additionally, it features 4 channels capable of the same voltage conversion on top of a low-pass filtering. The latter is used to produce an analog signal from a PWM input. This board is used in conjunction with a FPGA (Alchitry) in the [MicroFPGA](https://github.com/jdeschamps/MicroFPGA) project.
 
-![lowpass conversion board](D:\git\RiesPieces\Electronics\LowPass_divider\lowpass_conv.JPG)
+![lowpass conversion board](lowpass_conv.JPG)
 
 The project contains the following items:
 
