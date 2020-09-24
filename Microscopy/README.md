@@ -26,4 +26,4 @@ In order to perform automated imaging, we place optical elements that are freque
 Note that these elements are controlled on our microscope using an FPGA (see the electronics section), the project is [hosted on Github](https://github.com/jdeschamps/MicroFPGA).
 
 ### A magnetic sample holder for coverslips
-[Sample Holder](Magnetic_Sample_Holder) that seals immediately, no breaking of the coverslip.
+[Sample Holder](Magnetic_sample_holder) that seals immediately, no breaking of the coverslip.
