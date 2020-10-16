@@ -17,7 +17,7 @@ In summary, with EMU:
 - The UIs are easily be transferred between similar set-ups
 - New UIs can be designed with drag and drop softwares and few extra lines of code
 
-EMU is now part of Micro-Manager 2-gamma.
+**EMU is distributed with Micro-Manager 2-gamma nightly builds.**
 
 ##### Example with the SimpleUI plugin:
 
@@ -30,10 +30,11 @@ EMU is now part of Micro-Manager 2-gamma.
 - [EMU user and programming guide](https://jdeschamps.github.io/EMU-guide/)
 - [EMU tutorial](https://github.com/jdeschamps/EMU-guide/tree/master/tutorial): how to implement an interface for EMU.
 
-
+Deschamps, J., Ries, J. EMU: reconfigurable graphical user interfaces for Micro-Manager. BMC Bioinformatics 21, 456 (2020).
+[doi.org/10.1186/s12859-020-03727-8](https://doi.org/10.1186/s12859-020-03727-8)
 
 ### htSMLM
 
 [htSMLM](https://github.com/jdeschamps/htSMLM) is the Ries group user interface for their automated single-molecule localization microscopes. htSMLM is an EMU plugin, it provides an intuitive interface to control an SMLM microscope, as well as tools to automatically adjust UV laser power and an advanced experiment designer allowing unsupervised experiments (z-stack, localization microscopy, multi-slice localization, bright-field, single-shot...).
 
-Refer to the [Github repository](https://github.com/jdeschamps/htSMLM) on how to install and use it.
+Refer to the [Github repository](https://github.com/jdeschamps/htSMLM).
