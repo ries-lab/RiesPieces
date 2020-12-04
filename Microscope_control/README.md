@@ -35,6 +35,8 @@ Deschamps, J., Ries, J. EMU: reconfigurable graphical user interfaces for Micro-
 
 ### htSMLM
 
-[htSMLM](https://github.com/jdeschamps/htSMLM) is the Ries group user interface for their automated single-molecule localization microscopes. htSMLM is an EMU plugin, it provides an intuitive interface to control an SMLM microscope, as well as tools to automatically adjust UV laser power and an advanced experiment designer allowing unsupervised experiments (z-stack, localization microscopy, multi-slice localization, bright-field, single-shot...).
+![htSMLM](htsmlm.png)
 
-Refer to the [Github repository](https://github.com/jdeschamps/htSMLM).
+[htSMLM](https://github.com/jdeschamps/htSMLM) is the Ries group user interface for their automated single-molecule localization microscopes. htSMLM is an EMU plugin, and as such it is highly reconfigurable. It provides an intuitive interface to control an SMLM microscope, as well as tools to automatically adjust UV laser power and an advanced experiment designer allowing unsupervised experiments (z-stack, localization microscopy, multi-slice localization, bright-field, single-shot...). 
+
+Refer to the [htSMLM github repository](https://github.com/jdeschamps/htSMLM).
