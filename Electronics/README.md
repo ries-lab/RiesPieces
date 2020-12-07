@@ -37,3 +37,9 @@ In the present section, we provide Altium projects and Gerber files to reproduce
 - [Servomotor distribution board](Servo_distribution) is a simple distribution hub for servomotor signals.
 
 Note that an updated version of the low-pass and digital divider (renamed signal conversion board) is available in the [MicroFPGA](https://github.com/jdeschamps/MicroFPGA) repository.
+
+
+
+### Powermeter
+
+We use a simple home-made [powermeter](Powermeter) to measure the laser power during experiments without loosing too much power or stopping acquisitions.
