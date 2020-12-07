@@ -17,7 +17,7 @@ Here are approximative steps:
 
    > **Note**: due to space constraints, this was measured after reflection on two silver mirrors. Thus the numbers are inflated.
    >
-   > **Note**: we cannot trace which element we used, but it seems to be fused-silica, 5 mm thick.
+   > **Note**: we cannot trace which reflecting element we used (the good old lying around optics), but it seems to be fused-silica, 5 mm thick.
 
 2. Mount the reflecting element on a kinematic mount. We glued our using UV-glue on a Throlabs KM100PM/M, after having removed the platform.
 
@@ -39,7 +39,7 @@ Here are approximative steps:
 
 6. Using a high-end powermeter, we measured **repeatedly** the total voltage after the reflecting element (before entering the microscope on the illumination path) and plot power versus voltage output for each laser line. Fit a linear curve to each table: this yields the slopes and offsets necessary to convert the measured voltage to laser power entering the microscope.
 
-7. Finally, we feed the output to the analog converter board provided in the [MicroFPGA](https://github.com/jdeschamps/MicroFPGA) repository. Upon request, the FPGA reads out the voltage and updates it in [Micro-Manager](https://micro-manager.org/). [htSMLM](https://github.com/jdeschamps/htSMLM) allows plotting continuously the laser power in mW using provided wavelengths, slops and offsets.
+7. Finally, we feed the output to the analog converter board provided in the [MicroFPGA](https://github.com/jdeschamps/MicroFPGA) repository. The FPGA reads out the voltage and can update it in [Micro-Manager](https://micro-manager.org/). [htSMLM](https://github.com/jdeschamps/htSMLM) allows plotting continuously the laser power in mW using the estimated slopes and offsets. To set-up MicroFPGA and htSMLM, refer to their respective repositories.
 
 
 
